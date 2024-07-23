@@ -1,2 +1,2 @@
-# Data-sscience-and-Aiml-
+# Data-sscience-and Artificial intelligent mechine learning
 project 
